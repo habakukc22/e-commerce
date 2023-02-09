@@ -22,4 +22,4 @@ Simply type consecutively:
 
 ## Technical comments
 
-This NextJS project has lots of modern and advanced features, such as the technology of static site generator and server-side rendering (that improves the SEO). In addition it's used the routing system of the NextJS, hooks for data fetching and may other cool things.
+This NextJS project has lots of modern and advanced features, such as the technology of static site generator and server-side rendering (that improves the SEO). In addition, it's used the routing system of the NextJS, hooks for data fetching and may other cool things.
